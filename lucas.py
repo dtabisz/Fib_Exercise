@@ -13,7 +13,7 @@ print(Lucas)
 
 print(type(len(Lucas)))
 
-while len(Lucas) < 10:
+while len(Lucas) < 20:
     Ilast = len(Lucas) -1
     last = Lucas[Ilast] 
     Iprevious = len(Lucas) -2
